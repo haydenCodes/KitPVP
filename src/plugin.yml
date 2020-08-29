@@ -1,0 +1,7 @@
+name: KitPvP
+version: 1.0
+author: Icky
+main: me.icky.Kit
+
+commands:
+  classes:
